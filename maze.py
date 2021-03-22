@@ -15,9 +15,9 @@ lambda x, y, dist: (x, y + dist), # right
 lambda x, y, dist: (x - dist, y)  # down
 ] 
 
-HEIGHT = 20 + 1
-WIDTH =  20 + 1
-cell_width = 25
+HEIGHT = 1000 + 1
+WIDTH =  1000 + 1
+cell_width = 10
 
 ENTER = (1, 1)
 EXIT = (HEIGHT - 2, WIDTH - 2)
