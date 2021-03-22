@@ -1,4 +1,4 @@
-# Maze
+# Some information about maze
 The repository contains an implementation of a simple visualization and maze generation algorithm based on depth-first traversal.
 
 A labyrinth is a structure (usually in two-dimensional or three-dimensional space), consisting of intricate paths to the exit (and / or paths leading to a dead end).
